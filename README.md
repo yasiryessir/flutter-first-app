@@ -1,2 +1,3 @@
-# flutter-first-app
-My basic app for learning flutter.
+# first_app
+
+My first flutter app on learning flutter language with projects. I may have made some mistakes, ignore them :)
